@@ -16,5 +16,7 @@ export default {
 </script>
 
 <style lang="scss">
-
+#app {
+  padding: 25px;
+}
 </style>
